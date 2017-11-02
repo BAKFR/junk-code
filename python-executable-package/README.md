@@ -2,7 +2,7 @@
 # Template for an executable python package
 
 
-It allow the package to be executed by any og these solutions:
+It allows the package to be executed by any of these solutions:
 
 ```sh
 python -m my_package
